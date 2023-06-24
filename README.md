@@ -36,6 +36,7 @@ Run the main program:
 
    ```bash
    python task_manager.py
+   
 Follow the on-screen instructions to navigate through the menu options.
 
 Register users, add tasks, view all tasks, view user-specific tasks, and generate reports as needed.
