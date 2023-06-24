@@ -30,6 +30,7 @@ To install and run the task management system locally, follow these steps:
    pip install -r requirements.txt. 
 
 ## Usage
+
 After installing the task management system, you can use it as follows:
 
 Run the main program:
@@ -41,9 +42,8 @@ Follow the on-screen instructions to navigate through the menu options.
 
 Register users, add tasks, view all tasks, view user-specific tasks, and generate reports as needed.
 
-Here are some screenshots of the project in action:
-
 ## Credits
+
 This project was created by: Kubra IRIS 
 
 Special thanks to the following resources for their contributions: HyperionDev.team
