@@ -33,14 +33,15 @@ To install and run the task management system locally, follow these steps:
 
 After installing the task management system, you can use it as follows:
 
-Run the main program:
-
    ```bash
    python task_manager.py
-   
+
+Above command runs the main program:
+
 Follow the on-screen instructions to navigate through the menu options.
 
 Register users, add tasks, view all tasks, view user-specific tasks, and generate reports as needed.
+
 
 ## Credits
 
